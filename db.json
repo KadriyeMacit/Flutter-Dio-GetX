@@ -1,2 +1,27 @@
-# Flutter-Dio-GetX
+{
+    {
+        "userId" : 1,
+        "id" : 1,
+        "title" : "Hello World",
+        "body" : "Kadriye Macit, Flutter dersleri vermektedir. Aynı zamanda bilgisayar mühendisidir."
+    },
+    {
+        "userId" : 1,
+        "id" : 2,
+        "title" : "Hentbol",
+        "body" : "7 kişilik asıllardan oluşan bir takım oyunudur. Futbol ve basketbol karışımı diyebiliriz.."
+    },
+    {
+        "userId" : 1,
+        "id" : 3,
+        "title" : "Erasmus",
+        "body" : "Portekiz ve Polonya erasmus yapılacak harika ülkelerdir. Mutlaka gezilmeli ve keşfedilmelidir."
+    },
+    {
+        "userId" : 1,
+        "id" : 4,
+        "title" : "Şatolar",
+        "body" : "Her şato ayrı güzeldir ama Almanya'daki Eltz Şatosu efsanedir."
+    }
+}
  
